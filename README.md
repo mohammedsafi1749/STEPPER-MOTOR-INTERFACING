@@ -67,7 +67,8 @@ L1:      DEC DX
 
          HLT                  ; Stop
 
-DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
+DATA:    DB 09H, 05H, 06H, 0AH ; Array of data (Clockwise)
+            OAH, 06H, 05H, 09H ; Array of data (Anti-clockwise)
 ```
 ## OUTPUT OF THE PROGRAM:
 
