@@ -1,6 +1,4 @@
 # STEPPER MOTOR INTERFACING
-## NAME: MOHAMMED SAFI F
-## REG NO: 212224060156
 
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
