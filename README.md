@@ -1,4 +1,6 @@
 # STEPPER MOTOR INTERFACING
+## NAME: MOHAMMED SAFI F
+## REG NO: 212224060156
 
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
@@ -70,6 +72,8 @@ L1:      DEC DX
 DATA:    DB 09H, 05H, 06H, 0AH ; Array of data
 ```
 ## OUTPUT OF THE PROGRAM:
+
+![WhatsApp Image 2026-02-07 at 9 26 59 AM](https://github.com/user-attachments/assets/f8197612-9994-4cd3-a210-1a79236d1a53)
 
 ## RESULT
 
