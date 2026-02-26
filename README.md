@@ -1,4 +1,3 @@
-# EXPERIMENT NO 2
 # Interface a Stepper motor with 8086 kit and rotate it in clockwise and anti-clockwise
 direction.
 
