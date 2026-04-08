@@ -1,5 +1,4 @@
-# Interface a Stepper motor with 8086 kit and rotate it in clockwise and anti-clockwise
-direction.
+# Interface a Stepper motor with 8086 kit and rotate it in clockwise and anti-clockwise direction.
 
 ## AIM
 To write an assembly language program in 8086 to rotate the motor at different speeds.
